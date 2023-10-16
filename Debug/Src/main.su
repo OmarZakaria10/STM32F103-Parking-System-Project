@@ -1,0 +1,7 @@
+main.c:218:6:ENTER_CALLBACK	8	static
+main.c:224:6:EXIT_CALLBACK	8	static
+main.c:230:5:main	8	static
+main.c:265:6:GetValidIDs	16	static
+main.c:282:16:Check_In_ID	16	static
+main.c:314:16:Check_Out_ID	16	static
+main.c:345:6:Control_Gate	24	static
